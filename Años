@@ -1,0 +1,36 @@
+#Edad 
+#Estatura 
+#Peso 
+#calificación
+#sexo
+
+Edad	Estatura	Sexo	Peso	calificacion
+23	1.7	Hombre	87	5
+19	1.63	Mujer	65	7
+24	1.65	Mujer	68	6
+26	1.69	Hombre	87	8
+21	1.55	Mujer	54	6.5
+22	1.59	Mujer	67	5
+23	1.73	Hombre	79	6
+29	1.75	Hombre	77	6.9
+29	1.55	Mujer	45	7.9
+26	1.65	Mujer	68	7.9
+21	1.79	Hombre	89	8.1
+28	1.69	Hombre	76	6.3
+27	1.81	Hombre	91	7.7
+31	1.78	Hombre	77	5
+21	1.63	Mujer	65	9
+27	1.71	Hombre	78	6.2
+19	1.75	Hombre	89	8.7
+25	1.76	Hombre	77	6.1
+22	1.64	Mujer	60	6.7
+21	1.78	Hombre	81	6.5
+21	1.77	Hombre	86	7
+22	1.75	Mujer	65	5
+22	1.76	Hombre	62	5
+22	1.77	Hombre	77	5
+21	1.65	Mujer	75	6
+21	1.66	Mujer	77	7
+21	1.66	Mujer	66	9
+21	1.66	Mujer	62	10
+21	1.65	Mujer	61	8
